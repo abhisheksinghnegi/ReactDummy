@@ -1,0 +1,19 @@
+.middle {
+    text-align: center;
+}
+
+.login{
+    width:50%;
+    height: 50%;
+    margin: auto;
+}
+
+.wrong{
+    width:50%;
+    height: 50%;
+    margin: auto;
+    border: 1px solid red;
+    color:red;
+    text-align: center;
+    padding: 5px;
+}
